@@ -1,0 +1,26 @@
+{
+  "itemGroup.chronoarsenal.arsenal": "Chrono Arsenal",
+  "key.categories.chronoarsenal": "Chrono Arsenal",
+  "key.chronoarsenal.ability_i": "Weapon Ability (I)",
+  "key.chronoarsenal.ability_r": "Weapon Ability (R)",
+
+  "item.chronoarsenal.time_scythe": "Time Scythe",
+  "item.chronoarsenal.venom_gate_gun": "Venom Gate Gun",
+  "item.chronoarsenal.lion_sun_axe": "Lion Sun Axe",
+  "item.chronoarsenal.blood_rage_sword": "Blood Rage Sword",
+  "item.chronoarsenal.ragnarok_spear": "Ragnarok Spear",
+  "item.chronoarsenal.claws_of_pain": "Claws of Pain",
+  "item.chronoarsenal.staff_of_mikulak": "Staff of Mikulak",
+  "item.chronoarsenal.veid_katana": "Veid Katana",
+  "item.chronoarsenal.tra_god_bow": "Tra God Bow",
+  "item.chronoarsenal.pride_knife": "Pride Knife",
+
+  "message.chronoarsenal.cooldown": "Ability on cooldown: %s s",
+  "message.chronoarsenal.domain_open": "Time Domain opened",
+  "message.chronoarsenal.domain_close": "Time Domain closed",
+  "message.chronoarsenal.domain_overlap": "Another domain is too close",
+  "message.chronoarsenal.low_health": "Not enough health",
+  "message.chronoarsenal.no_target": "No target in sight",
+  "message.chronoarsenal.blocked": "Path is blocked",
+  "message.chronoarsenal.no_escape": "You cannot leave the domain!"
+}

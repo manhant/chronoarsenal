@@ -1,0 +1,4 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": { "layer0": "chronoarsenal:item/tra_god_bow" }
+}

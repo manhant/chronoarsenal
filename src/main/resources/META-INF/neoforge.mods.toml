@@ -1,0 +1,26 @@
+modLoader = "javafml"
+loaderVersion = "[1,)"
+license = "MIT"
+
+[[mods]]
+modId = "chronoarsenal"
+version = "0.1.0"
+displayName = "Chrono Arsenal"
+description = '''
+Ten legendary weapons, each with its own abilities.
+Hold a weapon and press I (or R) to use its special abilities.
+'''
+
+[[dependencies.chronoarsenal]]
+modId = "neoforge"
+type = "required"
+versionRange = "[21.1,)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.chronoarsenal]]
+modId = "minecraft"
+type = "required"
+versionRange = "[1.21.1]"
+ordering = "NONE"
+side = "BOTH"
