@@ -87,8 +87,7 @@ public class VenomGateGunItem extends Item implements ChronoWeapon {
         cloud.setDuration(20 * 10);
         cloud.setWaitTime(0);
         cloud.setRadiusPerTick(-4.0f / (20 * 10));
-        cloud.setParticle(ParticleTypes.ENTITY_EFFECT);
-        cloud.setFixedColor(0x4CAF2E);
+cloud.setParticle(net.minecraft.core.particles.ColorParticleOption.create(ParticleTypes.ENTITY_EFFECT, 0xFF4CAF2E));
         cloud.addEffect(new MobEffectInstance(MobEffects.POISON, 20 * 5, 1));
         level.addFreshEntity(cloud);
 
